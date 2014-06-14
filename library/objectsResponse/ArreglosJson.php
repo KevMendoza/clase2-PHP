@@ -1,5 +1,7 @@
 <?php
 
+//clase de arreglos
+
 class ArreglosJson extends Response{
 
 	protected $cadena = array();

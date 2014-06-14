@@ -1,5 +1,7 @@
 <?php
 
+//clase que analiza la url
+
 class RequestUrl{
 
 	protected $url;

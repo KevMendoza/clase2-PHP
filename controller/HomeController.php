@@ -1,5 +1,7 @@
 <?php
 
+//clase de home
+
 class HomeController{
 	public function indexAction()
 	{

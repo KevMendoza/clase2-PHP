@@ -1,5 +1,7 @@
 <?php
 
+//clase de contactanos
+
 class ContactanosController{
 
 	public function indexAction()
