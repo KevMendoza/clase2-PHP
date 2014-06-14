@@ -1,7 +1,5 @@
 <?php
 
-//clase controlador de layout
-
 class LayoutController{
 
 	protected $titulo;
@@ -12,6 +10,8 @@ class LayoutController{
 
 	public function __construct()
 	{	
+		
+		
 		
 		
 	}

@@ -1,5 +1,4 @@
 <?php
-//clase de colaboradores
 
 class ColaboradoresController{
 
@@ -11,7 +10,7 @@ class ColaboradoresController{
 		return new View($template,['mensaje'=>$mensaje]);
 	}
 
-	public function defaultAction()
+	public function colaboradoresAction()
 	{
 		$colaboradores[] = array("nombre"=>"Kevin","curso"=>"php");
 		$colaboradores[] = array("nombre"=>"Flavio","curso"=>"c++");

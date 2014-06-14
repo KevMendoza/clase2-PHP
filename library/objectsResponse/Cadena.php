@@ -1,7 +1,5 @@
 <?php
 
-//clase de cadena
-
 class Cadena extends Response{
 
 	protected $cadena;

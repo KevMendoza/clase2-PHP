@@ -1,7 +1,5 @@
 <?php
 
-//clase de response
-
 class View extends Response{
 
 	protected $template;

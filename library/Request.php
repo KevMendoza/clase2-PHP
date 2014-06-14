@@ -1,7 +1,5 @@
 <?php
 
-//clase que recibe los datos y ejecuta la url
-
 class Request{
 
 	protected $controllerClassName;
