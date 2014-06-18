@@ -1,5 +1,7 @@
 <?php
 
+//controlador que controlara la vista home
+
 class HomeController{
 	public function indexAction()
 	{

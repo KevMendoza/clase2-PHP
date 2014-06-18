@@ -1,5 +1,7 @@
 <?php
 
+// objeto que controla todas las vistas y las envia al layout y responde a la extension de Response
+
 class View extends Response{
 
 	protected $template;

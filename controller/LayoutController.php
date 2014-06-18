@@ -1,5 +1,7 @@
 <?php
 
+//controlador que controlara al layout
+
 class LayoutController{
 
 	protected $titulo;

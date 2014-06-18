@@ -1,5 +1,7 @@
 <?php
 
+//controlador que controlara la vista colaboradores
+
 class ColaboradoresController{
 
 	public function indexAction()

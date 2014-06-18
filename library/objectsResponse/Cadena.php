@@ -1,5 +1,7 @@
 <?php
 
+// objeto que enviara todas las cadena como respuesta y extension de Response
+
 class Cadena extends Response{
 
 	protected $cadena;

@@ -1,5 +1,7 @@
 <?php
 
+//tomamos la url analizada y la mostramos
+
 class Request{
 
 	protected $controllerClassName;

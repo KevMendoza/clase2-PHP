@@ -1,5 +1,7 @@
 <?php
 
+//controlador que controlara la vista contactanos
+
 class ContactanosController{
 
 	public function indexAction()
